@@ -1,2 +1,1 @@
-raw.githubusercontent.com/lapombal/security-test/refs/heads/main/blocktop.js
-https://github.com/lapombal/security-test/blob/main/blocktop.js
+
